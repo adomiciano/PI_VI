@@ -18,16 +18,6 @@ def main():
     )
     page.run()
 
-    # option = render_menu()
-
-    # match option:
-    #     case "Home":
-    #         render_home()
-    #     case "Análise de Imagem":
-    #         render_analysis()
-    #     case "Histórico de Análises":
-    #         render_history()
-
 
 if __name__ == "__main__":
     main()
